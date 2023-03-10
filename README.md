@@ -1,1 +1,6 @@
 # Data-Analysis-of-Leading-Causes-of-Death-in-the-United-States-using-Pandas
+This project focuses on demonstrating skills in data management using Pandas by analyzing publicly available data on the leading causes of death in the United States. The project uses two data files, one containing information on causes of death and the other containing population data. The state-level data covers multiple years.
+
+The main objectives of this project are to answer questions related to the trend in the likelihood of death, the leading causes of death, and whether individual states show the same four leading causes of death. Additionally, the project aims to investigate year-by-year changes in the leading causes of death nationwide, and to demonstrate an understanding of how variables are normalized/standardized using population data.
+
+The report presents a formal analysis of the data, including data cleaning procedures and the implementation of algorithms using Pandas. The results are presented using appropriately constructed and formatted tables and plots, and insights are generated based on the findings. The report concludes with a summary of the key findings, a discussion of potential questions that could be answered by collecting additional data, and suggestions for further research.
